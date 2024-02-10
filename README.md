@@ -7,7 +7,7 @@
 * [Business Goal](#business-goal)
 * [Approach](#approach)
 * [Technologies Used](#technologies-used)
-* [Model Results](#model_results)
+* [Model Results](#model-results)
 * [Conclusion](#conclusion)
 <br />
 
@@ -64,13 +64,14 @@ The company wants to know which variables are significant in predicting the dema
 * RMSE				 - Training Set: 0.094, Test Set: 0.095
 
 ## Conclusion
-Significant variables to predict the demand for shared bikes
-temp
-yr
-season (winter, spring)
-windspeed
-weatersit (Light Snow, Mist)
-mnth (Nov, Dec, Jan)
+Significant variables to predict the demand for shared bikes:
+</br>
+* temp
+* yr
+* season (winter, spring)
+* windspeed
+* weatersit (Light Snow, Mist)
+* mnth (Nov, Dec, Jan)
 
 
 ## Contact
