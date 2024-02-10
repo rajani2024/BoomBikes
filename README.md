@@ -60,7 +60,7 @@ The company wants to know which variables are significant in predicting the dema
 
 ## Model Results
 * R-squared 		 - Training Set: 0.824, Test Set: 0.812
-* Adjusted R-squared - Training Set: 0.816, Test Set: 0.803
+* Adjusted R-squared - Training Set: 0.821, Test Set: 0.803
 * RMSE				 - Training Set: 0.094, Test Set: 0.095
 
 ## Conclusion
